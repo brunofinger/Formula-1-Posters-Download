@@ -35,5 +35,5 @@ The script contains the following functions:
 ### Note
 -   The code might need to be modified if the structure of the StatsF1 website changes in the future.
 
-### Images to download
+### Download images here
 https://drive.google.com/file/d/12bn82Qhjtxnc4nmurOUpDIfhqVb4rEk5/view?usp=sharing
