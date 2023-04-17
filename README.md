@@ -3,6 +3,9 @@
 
 This is a Python script that downloads Formula 1 posters from the StatsF1 website. It downloads posters from all years between 1950 and 2021.
 
+## Download images here
+https://drive.google.com/file/d/12bn82Qhjtxnc4nmurOUpDIfhqVb4rEk5/view?usp=sharing
+
 ### Requirements
 
 -   Python 3.x
@@ -34,6 +37,3 @@ The script contains the following functions:
 
 ### Note
 -   The code might need to be modified if the structure of the StatsF1 website changes in the future.
-
-### Download images here
-https://drive.google.com/file/d/12bn82Qhjtxnc4nmurOUpDIfhqVb4rEk5/view?usp=sharing
